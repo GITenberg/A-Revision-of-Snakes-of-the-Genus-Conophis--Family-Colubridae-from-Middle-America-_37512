@@ -1,0 +1,31 @@
+_repo: A-Revision-of-Snakes-of-the-Genus-Conophis--Family-Colubridae-from-Middle-America-_37512
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 37512-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Wellman, John
+    gutenberg_agent_id: '38890'
+    url: http://www.gutenberg.org/2009/agents/38890
+description: ''
+gutenberg_bookshelf:
+- Animals-Wild-Reptiles and Amphibians
+- Animal
+gutenberg_issued: '2011-09-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37512'
+  lccn: '63064625'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conophis'
+- !lcsh 'Snakes -- Central America'
+- !lcc 'QH'
+- !lcc 'QL'
+title: A Revision of Snakes of the Genus Conophis (Family Colubridae, from Middle
+  America)
+url: http://www.gutenberg.org/ebooks/37512
